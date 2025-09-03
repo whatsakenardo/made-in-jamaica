@@ -46,6 +46,7 @@
 | Joyful AI Journal | AI-powered journal app that supports mental well-being through personalized insights, emotion recognition, and CBT-based reflections, helping users navigate life's challenges with daily motivation and support. | [Website](https://www.getjoyfulapp.com/) | **[@jd-alexander](https://github.com/jd-alexander)** |
 | ShopYahso | ShopYahso makes shopping easy, affordable, and reliable. Whether you’re looking for everyday essentials, unique local products, or trending items, you can browse a wide range of sellers in one place. With secure payments, fast delivery, and customer support, you can shop with confidence and convenience. | [Website](https://shopyahso.com) | **[@osoobe](https://github.com/osoobe)** |
 | Jamaica Breaches | The Jamaican security logbook thats recording security breaches, data leaks, hacks and scams taking place in Jamaica. | [Website](https://www.jamaicabreaches.com/) | **[@everonegraham](https://github.com/everonegraham)** |
+|Affirm-a-day| Daily affirmation scratch card|[Android] ([https://play.google.com/store/apps/details?id=com.kissgames658.affirmaday])/[IOS](https://apps.apple.com/us/app/affirm-a-day/id6738746946)|**[@whatsakenardo]**
 
 
 
